@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 230fc8deb0035594e9a97baaa3ae9404
+  - enabled: 1
+    path: Assets/Scenes/CoreAbdullaScene.unity
+    guid: 5a5b48201fe5cfc4d8775834574fada3
+  - enabled: 1
+    path: Assets/Scenes/AuthorsCutscene.unity
+    guid: c7499e5b05ec44a49924411c8ab7c66e
+  m_configObjects: {}
